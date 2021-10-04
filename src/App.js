@@ -32,7 +32,7 @@ function App() {
 
         <p>have an anime quote for a brighter skin:</p>
 
-        <p>{quote.quote}</p>
+        <p>"{quote.quote}"</p>
         <p>from: {quote.anime}</p>
         <p>Who said this? It's {quote.character} !</p>
 
